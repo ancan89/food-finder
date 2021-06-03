@@ -24,4 +24,4 @@ The app is ready to be deployed!
 
 ## Deployment
 
-This app is configured to be deployed with Firebase.
+This app is configured to be deployed with [Firebase](https://firebase.google.com/).
